@@ -1,0 +1,15 @@
+Problem Statement:
+Predict Sleep Quality Score Based on Daily Routine
+
+ML Algorithm: Linear Regression
+Domain: Health & Wellness
+
+Create a linear regression model that predicts a person's sleep quality score (1–10) based on their lifestyle.
+Use a Google Form to collect:
+- Daily screen time
+- Number of meals
+- Bedtime and wake-up time
+- Physical activity level
+- Stress level (1–5)
+
+Predict the score and help students understand how their habits affect sleep. Use RMSE or MAE for evaluation.
